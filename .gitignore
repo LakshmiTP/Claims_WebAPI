@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ClaimAPI/.vs/ClaimAPI
+/ClaimAPI/ClaimAPI/bin/Debug/netcoreapp3.1
+/ClaimAPI/ClaimAPI/obj
+/ClaimAPI/ClaimAPI.Repository/obj
+/ClaimAPI/ClaimAPI.Repository/bin/Debug/netcoreapp3.1
